@@ -7,7 +7,7 @@
 This Jupyter notebook simulates head-to-head poker equity between two starting hands using Monte Carlo simulations. Thousands of random board deals are generated to estimate win, loss, and tie probabilities.
 
 ## Example Output
-![Poker Monte Carlo Demo](PokerOddsExampleOutput.png)
+![Poker Monte Carlo Demo](ExampleOutputImage.png)
 
 ## Features
 - Accepts Hero and Villain hands (space or no space, uppercase/lowercase)
